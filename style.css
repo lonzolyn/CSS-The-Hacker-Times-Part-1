@@ -5,27 +5,100 @@ h1 {
     border-style: none;
     padding: 25px, 50px;
     font-size:50px;
-    color: black;
+    color: black;;
 }
- .ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: inline-bock;
-
+.date{
+    font-size: 10px;
+    font-family:'Times New Roman', Times, serif
+}
+ .ul nav{
     
-}
+    margin: 0;
+    padding: 30px;
+    display: inline-block;
+    list-style-type: none;
+    
+     
+
+ }
+ nav li {
+    display:inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    width:700;
+    font-size: 11px;
+    padding:5px;
+    
+ }
+
+ 
+
 .newspaper-container{
     width: 700px;
-    align: center;
+    margin: auto;
     border-radius: 15px;
     box-shadow: 5px;
+    padding:10px;
+    background:lightgray;
+
 }
 h2 {
-
-
-
+    font:black;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+body {
+    
+    padding: 10px;
+    background-color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-size: 10px;
+}
+.more-articles {
+    display: flex;
+    text-align:center;
+}
+h5{
+    color:red
+}
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
 
  
     
@@ -40,8 +113,5 @@ h2 {
     
      
 
-body {
-    background: white;
-    font-family: Source Sands Pro;
 
-}
+
