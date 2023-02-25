@@ -36,9 +36,9 @@ h1 {
     width: 700px;
     margin: auto;
     border-radius: 15px;
-    box-shadow: 5px;
-    padding:10px;
-    background:lightgray;
+    box-shadow: 2px 2px #ddd;   
+    padding:1em;
+    background:white;
 
 }
 h2 {
@@ -49,13 +49,14 @@ h2 {
 body {
     
     padding: 10px;
-    background-color: white;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    font-size: 10px;
+    background-color: rgb(232, 228, 228);;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
 }
 .more-articles {
     display: flex;
-    text-align:center;
+    text-align:left;
+    
 }
 h5{
     color:red
